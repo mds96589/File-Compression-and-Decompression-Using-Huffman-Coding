@@ -1,1 +1,0 @@
-Hello Everyone, I am Mohammad Suhail and this is my project on File Compression and decompression based on Huffman coding in C++.
